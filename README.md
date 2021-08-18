@@ -1,4 +1,4 @@
-# FRENCH COMPANIES ON GITHUB
+# Frecnh Companies On GITHUB
 
 - https://github.com/thecodingmachine
 - https://github.com/Grafikart
