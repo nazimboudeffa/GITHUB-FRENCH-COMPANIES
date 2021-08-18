@@ -5,3 +5,5 @@
 - https://github.com/betagouv
 - https://github.com/ovh
 - https://github.com/openfoodfacts
+- https://github.com/yeswehack/pwn-machine
+- https://github.com/PrestaShop
