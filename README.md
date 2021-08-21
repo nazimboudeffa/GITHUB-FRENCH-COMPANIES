@@ -9,3 +9,6 @@
 
 ## Companies
 - https://www.welcometothejungle.com/fr
+
+## Blog
+- https://www.maddyness.com/
