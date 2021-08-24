@@ -5,8 +5,9 @@
 - https://github.com/Grafikart
 - https://github.com/betagouv
 - https://github.com/ovh
-- https://github.com/yeswehack/pwn-machine
+- https://github.com/yeswehack
 - https://github.com/PrestaShop
+- https://github.com/leboncoin
 - https://github.com/VoodooGames
 
 ## Companies
