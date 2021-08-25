@@ -8,6 +8,7 @@
 - https://github.com/yeswehack
 - https://github.com/PrestaShop
 - https://github.com/leboncoin
+- https://github.com/framasoft
 - https://github.com/VoodooGames
 
 ## Companies
