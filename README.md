@@ -11,7 +11,7 @@
 - https://github.com/framasoft
 - https://github.com/VoodooGames
 
-## Companies
+## STACKS
 - https://www.welcometothejungle.com/fr
 
 ## Blog
