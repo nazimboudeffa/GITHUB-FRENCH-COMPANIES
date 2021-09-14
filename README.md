@@ -15,7 +15,6 @@
 
 - https://cleyrop.com/ NO GITHUB
 - https://github.com/dougs-compta
-- https://github.com/thecodingmachine TCM
 - https://github.com/intercloud
 - https://www.eveia.io/ NO GITHUB
 - https://github.com/netwo-io
@@ -24,7 +23,20 @@
 - https://github.com/WildCodeSchool
 - https://deskapad.com/ NO GITHUB
 - https://fr.organilog.com/ NO GITHUB
-- https://www.trendethics.com/
+- https://www.trendethics.com/ NO GITHUB
+- OCLOCK ?
+- https://github.com/EmakinaFR
+- https://keynit.com/ NO GITHUB
+- https://www.boondmanager.com/ NO GITHUB
+- https://github.com/assessfirst EMPTY GITHUB
+- https://www.1min30.com/ NO GITHUB
+- EPHATTA ?
+- https://kaokeb.com/ NO GITHUB
+- https://github.com/thecodingmachine TCM
+- ZEN HOME ?
+- https://github.com/didomi
+- ONFUCIUS
+- https://slean.com/ NO GITHUB
 
 TODO : continue
 
