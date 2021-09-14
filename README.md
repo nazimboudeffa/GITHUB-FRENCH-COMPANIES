@@ -38,8 +38,6 @@
 - ONFUCIUS
 - https://slean.com/ NO GITHUB
 
-TODO : continue
-
 ## STACKS
 - https://www.welcometothejungle.com/fr
 
