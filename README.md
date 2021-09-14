@@ -12,6 +12,18 @@
 - https://github.com/VoodooGames
 - https://github.com/Overlay-tech
 
+## Remote Friendly
+
+- https://cleyrop.com/ NO GITHUB
+- https://github.com/dougs-compta
+- https://github.com/thecodingmachine
+- https://github.com/intercloud
+- https://www.eveia.io/ NO GITHUB
+- https://github.com/netwo-io
+- https://github.com/thecodingmachine/workadventure
+
+TODO : continue
+
 ## STACKS
 - https://www.welcometothejungle.com/fr
 
