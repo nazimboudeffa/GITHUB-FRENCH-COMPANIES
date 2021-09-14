@@ -1,7 +1,6 @@
 # Frecnh Companies On GITHUB
 - https://github.com/openfoodfacts
 - https://github.com/abbealBZZZ ABBEAL
-- https://github.com/thecodingmachine TCM
 - https://github.com/Grafikart
 - https://github.com/betagouv
 - https://github.com/ovh
@@ -16,11 +15,16 @@
 
 - https://cleyrop.com/ NO GITHUB
 - https://github.com/dougs-compta
-- https://github.com/thecodingmachine
+- https://github.com/thecodingmachine TCM
 - https://github.com/intercloud
 - https://www.eveia.io/ NO GITHUB
 - https://github.com/netwo-io
-- https://github.com/thecodingmachine/workadventure
+- https://github.com/thecodingmachine/workadventure WorkAdventure
+- https://www.lecollectionist.com/fr NO GITHUB
+- https://github.com/WildCodeSchool
+- https://deskapad.com/ NO GITHUB
+- https://fr.organilog.com/ NO GITHUB
+- https://www.trendethics.com/
 
 TODO : continue
 
