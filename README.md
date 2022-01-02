@@ -10,6 +10,8 @@
 - https://github.com/framasoft
 - https://github.com/VoodooGames
 - https://github.com/Overlay-tech
+- https://github.com/symfony
+- https://github.com/meilisearch
 
 ## Remote Friendly https://www.tousnomades.com/
 
