@@ -35,7 +35,11 @@
 - https://github.com/aircall
 - https://github.com/deezer
 - https://github.com/Ivalua
-- 
+- https://github.com/shift-technology
+- https://github.com/BackMarket
+- https://github.com/veepee-oss
+- https://github.com/VestiaireCollective (empty)
+- Lydia (bank)
 
 ## Remote Friendly https://www.tousnomades.com/
 
