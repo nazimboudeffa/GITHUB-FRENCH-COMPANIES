@@ -13,6 +13,17 @@
 - https://github.com/symfony
 - https://github.com/meilisearch
 
+## LICORNES
+
+- https://github.com/dataiku
+- https://github.com/sorare
+- https://github.com/ContentSquare
+- https://github.com/ManoManoTech
+- belive (music)
+- https://github.com/PayFit
+- https://github.com/criteo
+- https://github.com/deezer
+
 ## Remote Friendly https://www.tousnomades.com/
 
 - https://cleyrop.com/ NO GITHUB
