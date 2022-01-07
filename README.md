@@ -22,7 +22,20 @@
 - belive (music)
 - https://github.com/PayFit
 - https://github.com/criteo
+- https://github.com/VoodooTeam
+- https://github.com/blablacar
+- https://github.com/LedgerHQ
+- https://github.com/mirakl
+- Alan (insurance)
+- https://github.com/kyriba
+- https://github.com/Talend
+- https://github.com/ovh
+- https://github.com/doctolib
+- https://github.com/meero-com
+- https://github.com/aircall
 - https://github.com/deezer
+- https://github.com/Ivalua
+- 
 
 ## Remote Friendly https://www.tousnomades.com/
 
