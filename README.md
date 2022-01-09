@@ -68,6 +68,11 @@
 - ONFUCIUS
 - https://slean.com/ NO GITHUB
 
+## OTHER BIG COMPANIES
+
+- https://github.com/altran
+- https://github.com/soprasteria
+
 ## STACKS
 - https://www.welcometothejungle.com/fr
 
