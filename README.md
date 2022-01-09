@@ -1,17 +1,6 @@
 # Frecnh Companies On GITHUB
-- https://github.com/openfoodfacts
-- https://github.com/abbealBZZZ ABBEAL
-- https://github.com/Grafikart
-- https://github.com/betagouv
-- https://github.com/ovh
-- https://github.com/yeswehack
-- https://github.com/PrestaShop
-- https://github.com/leboncoin
-- https://github.com/framasoft
-- https://github.com/VoodooGames
-- https://github.com/Overlay-tech
-- https://github.com/symfony
-- https://github.com/meilisearch
+
+A non exhaustive list of Frecnh Tech Companies in Github 
 
 ## LICORNES (23 actually)
 
@@ -22,7 +11,7 @@
 - belive (music)
 - https://github.com/PayFit
 - https://github.com/criteo
-- https://github.com/VoodooTeam
+- https://github.com/VoodooTeam or https://github.com/VoodooGames
 - https://github.com/blablacar
 - https://github.com/LedgerHQ
 - https://github.com/mirakl
@@ -40,6 +29,20 @@
 - https://github.com/veepee-oss
 - https://github.com/VestiaireCollective (empty)
 - Lydia (bank)
+
+## Future Licornes
+
+- https://github.com/openfoodfacts
+- https://github.com/abbealBZZZ ABBEAL
+- https://github.com/Grafikart
+- https://github.com/betagouv
+- https://github.com/yeswehack
+- https://github.com/PrestaShop
+- https://github.com/leboncoin
+- https://github.com/framasoft
+- https://github.com/Overlay-tech
+- https://github.com/symfony
+- https://github.com/meilisearch
 
 ## Remote Friendly https://www.tousnomades.com/
 
