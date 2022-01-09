@@ -75,6 +75,7 @@ A non exhaustive list of Frecnh Tech Companies in Github
 
 - https://github.com/altran
 - https://github.com/soprasteria
+- https://github.com/DassaultSystemes-Technology
 
 ## STACKS
 - https://www.welcometothejungle.com/fr
