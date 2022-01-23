@@ -35,7 +35,6 @@ A non exhaustive list of Frecnh Tech Companies in Github
 - https://github.com/openfoodfacts
 - https://github.com/abbealBZZZ ABBEAL
 - https://github.com/Grafikart
-- https://github.com/betagouv
 - https://github.com/yeswehack
 - https://github.com/PrestaShop
 - https://github.com/leboncoin
@@ -43,6 +42,11 @@ A non exhaustive list of Frecnh Tech Companies in Github
 - https://github.com/Overlay-tech
 - https://github.com/symfony
 - https://github.com/meilisearch
+
+## GOV
+
+- https://github.com/betagouv
+- https://github.com/france-connect
 
 ## Remote Friendly https://www.tousnomades.com/
 
