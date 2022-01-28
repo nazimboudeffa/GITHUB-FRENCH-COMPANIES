@@ -75,12 +75,13 @@ A non exhaustive list of Frecnh Tech Companies in Github
 - ONFUCIUS
 - https://slean.com/ NO GITHUB
 
-## OTHER BIG COMPANIES
+## OTHER COMPANIES
 
 - https://github.com/altran
 - https://github.com/soprasteria
 - https://github.com/DassaultSystemes-Technology
 - https://github.com/ornikar
+- https://github.com/Cocolabs-SAS
 
 ## STACKS
 - https://www.welcometothejungle.com/fr
