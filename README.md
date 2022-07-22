@@ -29,6 +29,7 @@ A non exhaustive list of Frecnh Tech Companies in Github
 - https://github.com/veepee-oss
 - https://github.com/VestiaireCollective (empty)
 - Lydia (bank)
+- https://github.com/qonto
 
 ## Future Licornes
 
