@@ -83,6 +83,7 @@ A non exhaustive list of Frecnh Tech Companies in Github
 - https://github.com/DassaultSystemes-Technology
 - https://github.com/ornikar
 - https://github.com/Cocolabs-SAS
+- https://github.com/Capgemini
 
 ## STACKS
 - https://www.welcometothejungle.com/fr
