@@ -24,7 +24,7 @@ A non exhaustive list of Frecnh Tech Companies in Github
 - Alan (insurance)
 - https://github.com/kyriba
 - https://github.com/Talend
-- https://github.com/ovh
+- https://github.com/ovh (STARTUP or LICORNE?)
 - https://github.com/doctolib
 - https://github.com/meero-com
 - https://github.com/aircall
