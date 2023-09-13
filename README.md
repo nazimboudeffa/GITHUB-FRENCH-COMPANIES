@@ -31,7 +31,7 @@ A non exhaustive list of Frecnh Tech Companies in Github
 - Lydia (bank)
 - https://github.com/qonto
 
-## Future Licornes
+## Future Licornes ?
 
 - https://github.com/openfoodfacts
 - https://github.com/abbealBZZZ ABBEAL
