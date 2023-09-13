@@ -94,6 +94,7 @@ SOURCE https://www.tousnomades.com/
 
 - https://github.com/symfony
 - https://github.com/framasoft
+- https://github.com/openfoodfacts
 
 ## STACKS
 - https://www.welcometothejungle.com/fr
