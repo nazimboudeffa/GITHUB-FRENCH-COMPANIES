@@ -39,14 +39,12 @@ A non exhaustive list of Frecnh Tech Companies in Github
 
 ## Future Licornes ?
 
-- https://github.com/openfoodfacts
 - https://github.com/abbealBZZZ ABBEAL
 - https://github.com/Grafikart
 - https://github.com/yeswehack
 - https://github.com/PrestaShop
 - https://github.com/leboncoin
 - https://github.com/Overlay-tech
-- https://github.com/symfony
 - https://github.com/meilisearch
 
 ## GOV
@@ -94,6 +92,7 @@ SOURCE https://www.tousnomades.com/
 
 ## ORGS
 
+- https://github.com/symfony
 - https://github.com/framasoft
 
 ## STACKS
