@@ -1,3 +1,7 @@
+# Awesome FrenchTech
+
+CASSOS (Capgemini, Atos, Sopra Steria, Orange, Sia partners)
+
 # Frecnh Companies On GITHUB
 
 A non exhaustive list of Frecnh Tech Companies in Github 
