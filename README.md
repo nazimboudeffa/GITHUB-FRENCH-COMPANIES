@@ -45,7 +45,6 @@ A non exhaustive list of Frecnh Tech Companies in Github
 - https://github.com/yeswehack
 - https://github.com/PrestaShop
 - https://github.com/leboncoin
-- https://github.com/framasoft
 - https://github.com/Overlay-tech
 - https://github.com/symfony
 - https://github.com/meilisearch
@@ -92,6 +91,7 @@ SOURCE https://www.tousnomades.com/
 - https://github.com/ornikar
 - https://github.com/Cocolabs-SAS
 - https://github.com/Capgemini
+- https://github.com/framasoft
 
 ## STACKS
 - https://www.welcometothejungle.com/fr
